@@ -1,0 +1,19 @@
+---
+description: Улучшили работу со вставкой ссылок
+---
+
+# Вставка ссылки
+
+Для этого кнопка вставки ссылки вынесена в общее меню.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+По нажатию на данную кнопку сразу формируется элемент, а также открывается контекстное меню.
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+После вставки, если элемент можно преобразовать, то он преобразовывается внутри данной фигуры. Если нет, то остаётся только отображение перехода.
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+21.03.2025

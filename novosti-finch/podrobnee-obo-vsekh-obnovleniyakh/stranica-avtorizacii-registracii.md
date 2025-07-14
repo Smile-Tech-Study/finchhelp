@@ -1,0 +1,19 @@
+---
+description: Реализовали новую страницу авторизации/регистрации для удобства пользователей
+---
+
+# Страница авторизации/регистрации
+
+Страничка авторизации теперь выглядит следующим образом:
+
+<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+
+Во время регистрации первоначально запрашивается у пользователя, каким способом он хочет зарегистрироваться:
+
+<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+
+Также эти страницы адаптированы и под мобильную версию.
+
+<figure><img src="../../.gitbook/assets/image-2.jpg" alt=""><figcaption></figcaption></figure>
+
+27.03.2025
