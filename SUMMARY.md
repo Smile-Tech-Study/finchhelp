@@ -21,7 +21,7 @@
 * [Уведомления](uvedomleniya-i-chaty/uvedomleniya.md)
 * [Настройка уведомлений](uvedomleniya-i-chaty/nastroika-uvedomlenii.md)
 
-## Материалы&#x20;
+## Материалы
 
 * [Хранилище материалов](materialy/khranilishe-materialov.md)
 
