@@ -22,5 +22,5 @@ Finch гарантирует стабильную видеосвязь, даже
 
 ***
 
-[video:https://rutube.ru/video/46f1e2481ca04d44a5d3885ee7ad899f/" %}
+[video:https://rutube.ru/video/46f1e2481ca04d44a5d3885ee7ad899f/]
 
