@@ -28,7 +28,7 @@
 
 ![](<../../.gitbook/assets/image (104).png>)
 
-![](<../../.gitbook/assets/image (105).png" alt=""><figcaption><p>Ученик увидит доску в списке и откроет её </p></figcaption></figure>
+![](<../../.gitbook/assets/image (105).png> "Ученик увидит доску в списке и откроет её </p></figcaption></figure>
 [/tab]
 {% endtabs %}
 
