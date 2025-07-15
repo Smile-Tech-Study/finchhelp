@@ -12,7 +12,8 @@ description: >-
 
 {% hint style="warning" %}
 При добавлении занятия необходимо выставить его продолжительность и шаг по времени между занятиями.
-{% endhint %}
+
+:::
 
 <figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 

@@ -15,10 +15,12 @@
 
 {% hint style="info" %}
 В дальнейшем планируется добавление быстрого перехода к материалам занятия сразу из звонка&#x20;
-{% endhint %}
+
+:::
 
 {% hint style="info" %}
 ### Чтобы добавить в занятие заранее подготовленную доску, необходимо кликнуть на занятие в расписании, затем "Подробнее". Откроется страница с выбранным занятием, и в него можно будет перетащить материалы из блока "Все материала" в блок "Материалы занятия", тогда во время звонка можно будет открыть заранее подготовленную доску и попросить ученика открыть её же. <a href="#dobryj-den-elena-hotim-eshyo-dopolnit-otvet-chtoby-dobavit-v-zanyatie-zaranee-podgotovlennuyu-dosku" id="dobryj-den-elena-hotim-eshyo-dopolnit-otvet-chtoby-dobavit-v-zanyatie-zaranee-podgotovlennuyu-dosku"></a>
 
 ![](<../../.gitbook/assets/image (143).png>)
-{% endhint %}
+
+:::
