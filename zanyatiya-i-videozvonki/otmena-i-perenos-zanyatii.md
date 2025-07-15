@@ -54,4 +54,4 @@ description: Случаются ситуации, когда надо отмен
 
 ![](<../.gitbook/assets/image (25).png>)
 
-{% embed url="https://rutube.ru/video/280dbebbaca67fd4c40d007e42b54709/" %}
+[video:https://rutube.ru/video/280dbebbaca67fd4c40d007e42b54709/" %}
