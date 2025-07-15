@@ -21,7 +21,7 @@ description: >-
 Отметить оплату можно несколькими способами.
 
 [tabs]
-{% tab title="Дашборд" %}
+[tab:Дашборд" %}
 Из блока "Отметить оплату".&#x20;
 
 <figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
@@ -39,7 +39,7 @@ description: >-
 <figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Страница ученика" %}
+[tab:Страница ученика" %}
 Со страницы "Ученики" выбираем одного из учеников, кому надо отметить оплату. Такой функционал используется для пополнении баланса ученика при предоплате за занятия.
 
 <figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
@@ -65,7 +65,7 @@ description: >-
 <figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Финансы" %}
+[tab:Финансы" %}
 Со страницы "Финансы" в блоке "Долги" можно выбрать ученика/группу и выставить по ним полную/частичную оплату аналогично, как со страницы "Дашборд".&#x20;
 
 <figure><img src="../.gitbook/assets/Гифка с Gifius.ru-3.gif" alt=""><figcaption></figcaption></figure>

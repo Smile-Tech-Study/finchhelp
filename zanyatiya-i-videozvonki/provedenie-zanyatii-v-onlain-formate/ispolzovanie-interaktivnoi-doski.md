@@ -1,7 +1,7 @@
 # Использование интерактивной доски
 
 [tabs]
-{% tab title="Доска из материалов" %}
+[tab:Доска из материалов" %}
 &#x20;1\. Создайте доску.
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
@@ -23,7 +23,7 @@
 <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Новая доска в звонке" %}
+[tab:Новая доска в звонке" %}
 Откройте новую доску, чтобы она появилась в списке для выбора у ученика. Для вас на новой вкладке откроется интерактивная доска.
 
 <figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
