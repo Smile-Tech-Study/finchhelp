@@ -21,7 +21,7 @@
 5. Преподаватель в звонке откроет материалы занятия и затем выберет подготовленную доску, а ученик, кликнув на доску, сможет сразу перейти к нужной.
 
 <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 
 [tab:Новая доска в звонке" %}
 Откройте новую доску, чтобы она появилась в списке для выбора у ученика. Для вас на новой вкладке откроется интерактивная доска.
@@ -29,7 +29,7 @@
 <figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption><p>Ученик увидит доску в списке и откроет её </p></figcaption></figure>
-{% endtab %}
+[/tab]
 {% endtabs %}
 
 

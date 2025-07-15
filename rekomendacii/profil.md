@@ -12,7 +12,7 @@
 <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 
-{% endtab %}
+[/tab]
 
 [tab:Ученик" %}
 <figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
@@ -22,5 +22,5 @@
 * Имя
 * E-mail
 * Часовой пояс в UTC+02:00, чтобы занятия в расписании отображались по времени ученика.
-{% endtab %}
+[/tab]
 {% endtabs %}

@@ -37,7 +37,7 @@ description: >-
 Либо внести суммы частично по каждому ученику.&#x20;
 
 <figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 
 [tab:Страница ученика" %}
 Со страницы "Ученики" выбираем одного из учеников, кому надо отметить оплату. Такой функционал используется для пополнении баланса ученика при предоплате за занятия.
@@ -63,12 +63,12 @@ description: >-
 Либо по списку учеников этой группы отметить каждому внесенную сумму по отдельности.
 
 <figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 
 [tab:Финансы" %}
 Со страницы "Финансы" в блоке "Долги" можно выбрать ученика/группу и выставить по ним полную/частичную оплату аналогично, как со страницы "Дашборд".&#x20;
 
 <figure><img src="../.gitbook/assets/Гифка с Gifius.ru-3.gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 {% endtabs %}
 
