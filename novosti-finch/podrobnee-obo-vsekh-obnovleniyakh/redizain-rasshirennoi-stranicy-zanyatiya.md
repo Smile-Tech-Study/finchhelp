@@ -10,26 +10,26 @@ description: >-
 
 Календарь скрыли под иконку.
 
-![](<../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (127).png>)
 
 По нажатию на нее открывается модальное окно с календарем, где можно выбрать день, когда есть занятие с просматриваемым учеником.
 
-![](<../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (128).png>)
 
 Возможные действия по занятию открываются по клику на необходимое занятие. Комментарий открывается отдельным модальным окном по клику на иконку с комментарием. Так выглядит в случае индивидуального занятия с учеником:
 
-![](<../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (129).png>)
 
 А такой вариант отображения у группового занятия:
 
-![](<../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (130).png>)
 
 Соответственно, страница изменена и у ученика. По индивидуальному занятию отображается следующим образом:&#x20;
 
-![](<../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (131).png>)
 
 В случае группового занятия страница будет выглядеть так:
 
-![](<../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (132).png>)
 
 03.02.2025

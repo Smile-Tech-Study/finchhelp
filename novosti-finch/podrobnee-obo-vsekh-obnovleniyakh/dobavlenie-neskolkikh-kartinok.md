@@ -2,6 +2,6 @@
 
 Реализовали возможность добавления на интерактивную доску сразу нескольких картинок.
 
-![](<../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (2).png>)
 
 27.03.2025

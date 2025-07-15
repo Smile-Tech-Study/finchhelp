@@ -1,6 +1,6 @@
 # Быстрый старт
 
-![](<../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (22).png>)
 
 * [x] Заполните [расписание](../zanyatiya-i-videozvonki/raspisanie.md)
 * [x] Разместите [ссылку для записи на пробное](ssylka-zapis-na-probnoe.md) занятие в своих соц. сетях или объявлениях
@@ -15,4 +15,4 @@
 
 В системе всегда доступен переход к разделу "Помощь" в левом нижнем углу. Там содержится база знаний по Finch, а также информация о связи с поддержкой.
 
-![](<../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (120).png>)

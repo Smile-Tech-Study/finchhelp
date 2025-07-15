@@ -8,14 +8,14 @@ description: >-
 
 В соответсвии с расписанием в клетке таблице при наведении появится "+" = добавить занятие.
 
-![](<../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (45).png>)
 
 {% hint style="warning" %}
 При добавлении занятия необходимо выставить его продолжительность и шаг по времени между занятиями.
 
 :::
 
-![](<../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (47).png>)
 
 Также добавление занятий доступно в мобильной версии:
 

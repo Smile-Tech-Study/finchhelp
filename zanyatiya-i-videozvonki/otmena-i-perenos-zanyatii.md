@@ -8,27 +8,27 @@ description: Случаются ситуации, когда надо отмен
 
 Для отмены занятия необходимо зайти на страницу расписания, кликнуть по занятию, выбрать "Отменить".&#x20;
 
-![](<../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (107).png>)
 
 В открывшемся окне надо указать причину отмены и далее нажать на "Да."
 
-![](<../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (108).png>)
 
 После отмены заливка занятия в расписании поменяет цвет на розовый.&#x20;
 
-![](<../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (109).png>)
 
 А зарегистрированный ученик/ученики из группы получат уведомление, что занятие отменено.&#x20;
 
-![](<../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (110).png>)
 
 Если занятие было отменено, но в итоге всё-таки состоится, его можно вернуть в расписание в полноценном виде. Для этого надо кликнуть на это занятие, выбрать "Вернуть в активные".&#x20;
 
-![](<../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (111).png>)
 
 Занятие снова отобразится в расписании с голубой заливкой, а зарегистрированный ученик/ученики из группы получат уведомление, что занятие состоится.&#x20;
 
-![](<../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (112).png>)
 
 :::info
 
@@ -44,14 +44,14 @@ description: Случаются ситуации, когда надо отмен
 
 Для переноса занятия надо кликнуть по занятию из расписания и нажать "Редактировать". Уточнить, надо внести изменения только в это занятие или же в это и во все последующие (если, например, с четверга все занятия с этим учеником переносятся на субботы).
 
-![](<../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (23).png>)
 
 Для переноса даты/времени надо кликнуть на дату/время соответственно. Если надо изменить оба параметра, то отредактировать и дату, и время.&#x20;
 
-![](<../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (24).png>)
 
 Зарегистрированный ученик/ученики из группы также получат уведомление о переносе занятия со следующим текстом.&#x20;
 
-![](<../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (25).png>)
 
 {% embed url="https://rutube.ru/video/280dbebbaca67fd4c40d007e42b54709/" %}

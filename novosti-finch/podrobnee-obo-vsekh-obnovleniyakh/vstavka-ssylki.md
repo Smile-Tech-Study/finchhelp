@@ -6,14 +6,14 @@ description: Улучшили работу со вставкой ссылок
 
 Для этого кнопка вставки ссылки вынесена в общее меню.&#x20;
 
-![](<../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (7).png>)
 
 По нажатию на данную кнопку сразу формируется элемент, а также открывается контекстное меню.
 
-![](<../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (8).png>)
 
 После вставки, если элемент можно преобразовать, то он преобразовывается внутри данной фигуры. Если нет, то остаётся только отображение перехода.
 
-![](<../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (9).png>)
 
 21.03.2025

@@ -6,14 +6,14 @@ description: Реализовали новую страницу авториза
 
 Страничка авторизации теперь выглядит следующим образом:
 
-![](<../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (140).png>)
 
 Во время регистрации первоначально запрашивается у пользователя, каким способом он хочет зарегистрироваться:
 
-![](<../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (141).png>)
 
 Также эти страницы адаптированы и под мобильную версию.
 
-![](<../../.gitbook/assets/image-2.jpg" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image-2.jpg>)
 
 27.03.2025

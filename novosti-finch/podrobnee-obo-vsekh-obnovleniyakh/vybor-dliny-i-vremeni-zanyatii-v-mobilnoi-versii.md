@@ -2,6 +2,6 @@
 
 Улучшили зону тапа выбора длины и времени занятий в мобильной версии.
 
-![](<../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (17).png>)
 
 17.01.2025

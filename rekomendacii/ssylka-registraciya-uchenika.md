@@ -12,10 +12,10 @@
 
 Ссылку на определенного ученика можно получить на его странице&#x20;
 
-![](<../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (80).png>)
 
 ## Самостоятельная запись по ссылке на пробное
 
 После отправки заявки на[ пробное занятие ](ssylka-zapis-na-probnoe.md)клиент получит письмо, где его попросят зарегистрироваться в Finch самостоятельно.
 
-![](<../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (82).png>)
