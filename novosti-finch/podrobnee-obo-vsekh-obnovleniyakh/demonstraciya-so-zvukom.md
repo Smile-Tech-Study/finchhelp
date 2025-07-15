@@ -4,7 +4,7 @@
 
 Добавили возможность такой демонстрации со звуком в Finch.
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 Вместо бегунка может отображаться строка "Чтобы поделиться аудио, предоставьте доступ к вкладке". Она означает:&#x20;
 

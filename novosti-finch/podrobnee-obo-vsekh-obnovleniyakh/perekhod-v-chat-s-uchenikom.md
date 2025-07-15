@@ -6,13 +6,13 @@ description: Добавили возможность перейти в чат с
 
 Для этого в карточку ученика добавлена кнопка “Открыть чат”.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 По нажатию на кнопку “Открыть чат" откроется чат с учеником (чат будет существовать вне зависимости от того, зарегистрирован ученик или нет).
 
 Если в чате с учеником есть непрочитанные сообщения, то отображение кнопки меняется на следующее:
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Если сообщений >100, то показывается значение “99+”.
 

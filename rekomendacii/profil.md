@@ -9,13 +9,13 @@
 * написать персональную информацию (раздел "О себе" виден при записи на [пробное занятие](ssylka-zapis-na-probnoe.md) в ЛК ученика)
 * установить стартовую страницу при входе в Finch
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 
 [/tab]
 
 [tab:Ученик" %}
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 В своём профиле ученик может заполнить:
 

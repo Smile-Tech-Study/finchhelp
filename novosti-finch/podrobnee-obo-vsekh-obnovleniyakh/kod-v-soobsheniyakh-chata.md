@@ -6,14 +6,14 @@ description: Возникает потребность отправлять ко
 
 Для корректного отображения кода в чате добавлена кнопка для вставки кода:
 
-<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 По нажатию на эту кнопку в чате появятся три апострофа перед вводом текста и три апострофа после. Курсор пользователя окажется между первыми тремя и последними, чтобы пользователь сразу мог добавить туда код и он корректно отобразился при отправке сообщения.
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
 Пользователь может добавить текст как перед кодом, так и после. Отправленный код с текстом в сообщении подсвечивается следующим образом:
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 22.10.2024

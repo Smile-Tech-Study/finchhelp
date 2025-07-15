@@ -8,10 +8,10 @@
 2. Начать звонок любым из способов:
    1.  Из расписания&#x20;
 
-       <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+       ![](<../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
    2.  Со страницы дашборда&#x20;
 
-       <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+       ![](<../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

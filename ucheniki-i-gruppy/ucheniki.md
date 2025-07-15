@@ -6,22 +6,22 @@
 
 1. На странице со списком учеников нажать "Добавить".
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 2. Заполнить Имя и основной контакт ->  "Добавить".
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 ### Из расписания
 
 1. На странице с расписанием занятий нажать на активную ячейку (активными будут те ячейки, которые попадают в [расписание](../zanyatiya-i-videozvonki/raspisanie.md)).
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 2. Напишите имя  нового ученика в поле "Имя" и нажмите "Добавить". Напишите  "Имя" ученика и нажмите "Добавить". Finch спросит, кого вы добавляете Ученика или Группу? Выбирайте ученика.
 3. Если создается новый ученик через создание занятия, то после создания ученика таким образом открывается карточка ученика. При открытии карточки ученика показывается модальное окно с предложением зарегистрировать ученика.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ### Регистрация учеников&#x20;
 
@@ -36,13 +36,13 @@
 1. Перейдите на страницу ученика
 2. Скопируйте ссылку и отправьте её ученику любым удобным способом (при [самостоятельной записи на занятие](../rekomendacii/ssylka-zapis-na-probnoe.md) ученику сразу поступит письмо со ссылкой на регистрацию)
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 После перехода по ссылке ученик будет зарегистрирован.
 
-<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 ## Удаление учеников
 
@@ -54,7 +54,7 @@
 
 :::
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 ## Архивирование учеников&#x20;
 
@@ -63,11 +63,11 @@
 1. Откройте список учеников и кликните по имени ученика.
 2. На странице ученика нажмите кнопку "Перенести ученика в архив".
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 ### Для восстановления ученика из архива
 
 1. Откройте список учеников и "Архив учеников".
 2. Нажмите "Разархивировать".
 
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>

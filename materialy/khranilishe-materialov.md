@@ -2,32 +2,32 @@
 
 У репетитора есть доступ к материалам, которые были загружены им на платформу. Для их просмотра/редактирования надо перейти в раздел "Материалы". Откроется список папок.&#x20;
 
-<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 Папка "Материал из занятий" - системная и создается автоматически, если к занятиям были прикреплены материалы. Ее нельзя отредактировать или удалить, можно только открыть. При просмотре содержимого папки будут отображены все ученики данного репетитора.
 
 Также можно создать папку для хранения самостоятельно. Для этого надо нажать на "Создать". Откроется окошко с выбором: создать папку или доску, а также можно просто загрузить файл/картинку/видео.
 
-<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
 При клике на название папки, вверху открывается меню с возможными действиями: папку можно открыть, копировать, вырезать, удалить, переименовать.
 
-<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 Ранее загруженные материалы будут видны на странице занятия. Для добавления к занятию их надо просто перетащить в поле "Материалы занятия". Либо загрузить в занятие новые материалы по кнопке "+". Можно добавить параллельно и материалы из уже загруженных, и также прикрепить новые.&#x20;
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 Если материал добавлен к занятию, по нему можно кликнуть правой кнопкой мыши. Такой материал можно открыть, скачать, удалить, переименовать. Аналогично и в поле "Все материалы" по клику правой кнопкой мыши, откроются все действия, которые можно произвести с данным материалом.&#x20;
 
-<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 В хранилище материалов есть возможность сортировки. Для списочного режима отображения:
 
-<figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 В плиточном режиме отображения для сортировки необходимо кликнуть правой кнопкой мыши по свободному месту.
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 Выбор пользователя запоминается и остается последняя выбранная сортировка.

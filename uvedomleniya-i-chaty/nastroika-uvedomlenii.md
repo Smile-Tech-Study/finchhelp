@@ -2,22 +2,22 @@
 
 Для настройки уведомлений необходимо нажать на иконку имени и выбрать "Настройка уведомлений".
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 Откроется страничка со списком уведомлений, которые могут приходить в системе (задолженность, напоминание о занятии, запись на пробное, перенос занятия, отмена занятия, отмена пробного, пропуск группового занятия, новые сообщения). Можно включить/отключить получение любого из этих уведомлений по каналам push/e-mail/pop-up, для этого надо установить или снять галку напротив каждого уведомления и типа его получения. &#x20;
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 Также можно настроить уведомления по информированию о задолженности учеников по частоте.&#x20;
 
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 И установить срок, за который надо будет напомнить о занятии.&#x20;
 
-<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Если в браузере не включены всплывающие уведомления Push, то система предложит их включить. Настройка зависит от браузера.&#x20;
 
-<figure><img src="../.gitbook/assets/image (53).png" alt="" width="176"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (53).png" alt="" width="176"><figcaption></figcaption></figure>

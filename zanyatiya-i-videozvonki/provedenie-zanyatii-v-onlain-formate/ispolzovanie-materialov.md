@@ -7,7 +7,7 @@
 3. выбрать занятие
 4. добавить материалы из [хранилища](../../materialy/khranilishe-materialov.md) или загрузить с устройства.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ## Использование материалов во время онлайн-занятия
 

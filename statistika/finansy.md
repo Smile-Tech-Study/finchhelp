@@ -6,4 +6,4 @@
 * список учеников, кто имеет неоплаченные занятия с возможностью перехода к странице ученика.
 * финансовые показатели с ожидаемой и фактической выручкой по месяцам и за всё время.&#x20;
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
