@@ -2,33 +2,32 @@
 description: >-
   Занятие можно добавить на ученика/группу или оно появится в расписании после
   записи на пробное.
+title: Добавление занятий
+order: 1
 ---
-
-# Добавление занятий
 
 В соответсвии с расписанием в клетке таблице при наведении появится "+" = добавить занятие.
 
-![](<../.gitbook/assets/image (45).png>)
+![](./dobavlenie-zanyatii-5.png){width=1536px height=698px}
 
-:::note
+:::note 
+
 При добавлении занятия необходимо выставить его продолжительность и шаг по времени между занятиями.
 
 :::
 
-![](<../.gitbook/assets/image (47).png>)
+![](./dobavlenie-zanyatii-4.png){width=1300px height=680px}
 
 Также добавление занятий доступно в мобильной версии:
 
-* мобильный календарь на неделю
+-  мобильный календарь на неделю
 
+![](./dobavlenie-zanyatii-3.png){width=367px height=805px}
 
+-  мобильный календарь на день
 
-![](<../.gitbook/assets/photo_2025-01-17 15.12.16 (1).jpeg" alt="" width="275"><figcaption></figcaption></figure>
-
-* мобильный календарь на день
-
-![](<../.gitbook/assets/image (121).png" alt="" width="275"><figcaption></figcaption></figure>
+-  ![](./dobavlenie-zanyatii-2.png){width=367px height=805px}
 
 Выбор времени выглядит следующим образом:
 
-![](<../.gitbook/assets/image (122).png" alt="" width="250"><figcaption></figcaption></figure>
+![](./dobavlenie-zanyatii.png){width=333px height=347px}

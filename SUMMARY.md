@@ -1,55 +1,81 @@
-# Table of contents
+---
+title: Содержание
+---
 
-* [Finch](README.md)
+-  [Finch](./README)
 
 ## Рекомендации
 
-* [Профиль](rekomendacii/profil.md)
-* [Быстрый старт](rekomendacii/bystryi-start.md)
-* [Ссылка "Запись на пробное"](rekomendacii/ssylka-zapis-na-probnoe.md)
-* [Ссылка "Регистрация ученика"](rekomendacii/ssylka-registraciya-uchenika.md)
+-  [Профиль](./rekomendacii/profil)
+
+-  [Быстрый старт](./rekomendacii/bystryi-start)
+
+-  [Ссылка "Запись на пробное"](./rekomendacii/ssylka-zapis-na-probnoe)
+
+-  [Ссылка "Регистрация ученика"](./rekomendacii/ssylka-registraciya-uchenika)
 
 ## Ученики и группы
 
-* [Ученики](ucheniki-i-gruppy/ucheniki.md)
-* [Группы](ucheniki-i-gruppy/gruppy.md)
-* [Стоимость занятий/выставление оплаты](ucheniki-i-gruppy/stoimost-zanyatii-vystavlenie-oplaty.md)
+-  [Ученики](./ucheniki-i-gruppy/ucheniki)
+
+-  [Группы](./ucheniki-i-gruppy/gruppy)
+
+-  [Стоимость занятий/выставление оплаты](./ucheniki-i-gruppy/stoimost-zanyatii-vystavlenie-oplaty)
 
 ## Уведомления и чаты
 
-* [Чаты](uvedomleniya-i-chaty/chaty.md)
-* [Уведомления](uvedomleniya-i-chaty/uvedomleniya.md)
-* [Настройка уведомлений](uvedomleniya-i-chaty/nastroika-uvedomlenii.md)
+-  [Чаты](./uvedomleniya-i-chaty/chaty)
+
+-  [Уведомления](./uvedomleniya-i-chaty/uvedomleniya)
+
+-  [Настройка уведомлений](./uvedomleniya-i-chaty/nastroika-uvedomlenii)
 
 ## Материалы
 
-* [Хранилище материалов](materialy/khranilishe-materialov.md)
+-  [Хранилище материалов](./materialy/khranilishe-materialov)
 
 ## Занятия и видеозвонки
 
-* [Расписание](zanyatiya-i-videozvonki/raspisanie.md)
-* [Добавление занятий](zanyatiya-i-videozvonki/dobavlenie-zanyatii.md)
-* [Проведение занятий в онлайн-формате](zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/README.md)
-  * [Использование материалов](zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/ispolzovanie-materialov.md)
-  * [Использование интерактивной доски](zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/ispolzovanie-interaktivnoi-doski.md)
-* [Отмена и перенос занятий](zanyatiya-i-videozvonki/otmena-i-perenos-zanyatii.md)
+-  [Расписание](./zanyatiya-i-videozvonki/raspisanie)
+
+-  [Добавление занятий](./zanyatiya-i-videozvonki/dobavlenie-zanyatii)
+
+-  [Проведение занятий в онлайн-формате](./zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/README)
+
+   -  [Использование материалов](./zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/ispolzovanie-materialov)
+
+   -  [Использование интерактивной доски](./zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/ispolzovanie-interaktivnoi-doski)
+
+-  [Отмена и перенос занятий](./zanyatiya-i-videozvonki/otmena-i-perenos-zanyatii)
 
 ## Статистика
 
-* [Финансы](statistika/finansy.md)
+-  [Финансы](./statistika/finansy)
 
 ## Новости Finch
 
-* [Подробнее обо всех обновлениях](novosti-finch/podrobnee-obo-vsekh-obnovleniyakh/README.md)
-  * [Звонок в фоновом режиме](novosti-finch/podrobnee-obo-vsekh-obnovleniyakh/zvonok-v-fonovom-rezhime.md)
-  * [Виртуальный фон для звонка](novosti-finch/podrobnee-obo-vsekh-obnovleniyakh/virtualnyi-fon-dlya-zvonka.md)
-  * [Демонстрация со звуком](novosti-finch/podrobnee-obo-vsekh-obnovleniyakh/demonstraciya-so-zvukom.md)
-  * [Добавление нескольких картинок](novosti-finch/podrobnee-obo-vsekh-obnovleniyakh/dobavlenie-neskolkikh-kartinok.md)
-  * [Страница авторизации/регистрации](novosti-finch/podrobnee-obo-vsekh-obnovleniyakh/stranica-avtorizacii-registracii.md)
-  * [Вставка ссылки](novosti-finch/podrobnee-obo-vsekh-obnovleniyakh/vstavka-ssylki.md)
-  * [Отмена подписки](novosti-finch/podrobnee-obo-vsekh-obnovleniyakh/otmena-podpiski.md)
-  * [Редизайн расширенной страницы занятия](novosti-finch/podrobnee-obo-vsekh-obnovleniyakh/redizain-rasshirennoi-stranicy-zanyatiya.md)
-  * [Выбор длины и времени занятий в мобильной версии](novosti-finch/podrobnee-obo-vsekh-obnovleniyakh/vybor-dliny-i-vremeni-zanyatii-v-mobilnoi-versii.md)
-  * [Сортировка материалов в мобильной версии](novosti-finch/podrobnee-obo-vsekh-obnovleniyakh/sortirovka-materialov-v-mobilnoi-versii.md)
-  * [Переход в чат с учеником](novosti-finch/podrobnee-obo-vsekh-obnovleniyakh/perekhod-v-chat-s-uchenikom.md)
-  * [Код в сообщениях чата](novosti-finch/podrobnee-obo-vsekh-obnovleniyakh/kod-v-soobsheniyakh-chata.md)
+-  [Подробнее обо всех обновлениях](./podrobnee-obo-vsekh-obnovleniyakh/README)
+
+   -  [Звонок в фоновом режиме](./podrobnee-obo-vsekh-obnovleniyakh/zvonok-v-fonovom-rezhime)
+
+   -  [Виртуальный фон для звонка](./podrobnee-obo-vsekh-obnovleniyakh/virtualnyi-fon-dlya-zvonka)
+
+   -  [Демонстрация со звуком](./podrobnee-obo-vsekh-obnovleniyakh/demonstraciya-so-zvukom)
+
+   -  [Добавление нескольких картинок](./podrobnee-obo-vsekh-obnovleniyakh/dobavlenie-neskolkikh-kartinok)
+
+   -  [Страница авторизации/регистрации](./podrobnee-obo-vsekh-obnovleniyakh/stranica-avtorizacii-registracii)
+
+   -  [Вставка ссылки](./podrobnee-obo-vsekh-obnovleniyakh/vstavka-ssylki)
+
+   -  [Отмена подписки](./podrobnee-obo-vsekh-obnovleniyakh/otmena-podpiski)
+
+   -  [Редизайн расширенной страницы занятия](./podrobnee-obo-vsekh-obnovleniyakh/redizain-rasshirennoi-stranicy-zanyatiya)
+
+   -  [Выбор длины и времени занятий в мобильной версии](./podrobnee-obo-vsekh-obnovleniyakh/vybor-dliny-i-vremeni-zanyatii-v-mobilnoi-versii)
+
+   -  [Сортировка материалов в мобильной версии](./podrobnee-obo-vsekh-obnovleniyakh/sortirovka-materialov-v-mobilnoi-versii)
+
+   -  [Переход в чат с учеником](./podrobnee-obo-vsekh-obnovleniyakh/perekhod-v-chat-s-uchenikom)
+
+   -  [Код в сообщениях чата](./podrobnee-obo-vsekh-obnovleniyakh/kod-v-soobsheniyakh-chata)

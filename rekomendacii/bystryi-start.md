@@ -1,3 +1,8 @@
+---
+title: Быстрый старт
+order: 1
+---
+
 # Быстрый старт
 
 ![](<../.gitbook/assets/image (22).png>)
