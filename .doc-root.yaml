@@ -5,9 +5,8 @@ properties: []
 link:
   name: Finch_help
   pathname: github.com/Smile-Tech-Study/Finch_help/main/-
-  lastVisited: >-
-    github.com/Smile-Tech-Study/Finch_help/main/-/podrobnee-obo-vsekh-obnovleniyakh/demonstraciya-so-zvukom
-  logo: null
+  lastVisited: github.com/Smile-Tech-Study/Finch_help/main/-/README
+  logo: Finch.svg
   title: Finch
   query: {}
   group: null
@@ -26,5 +25,5 @@ userInfo:
   mail: kitlove51@list.ru
   name: LyubovAsseyeva
   id: kitlove51@list.ru
-logo: Finch.svg
-logo_dark: Для+загрузки+(1) (1).svg
+logo: logo (1).png
+logo_dark: logo (2).png
