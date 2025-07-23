@@ -11,13 +11,13 @@ order: 1
 
 * [x] Добавьте [учеников](./../ucheniki-i-gruppy/ucheniki) и по желанию объедините их в [группы](./../ucheniki-i-gruppy/gruppy), если вы проводите групповые занятия
 
-* [x] Отправьте ссылку ученику на [регистрацию]() в Finch (с незарегистрированными пользователями не получится проводить звонки в онлайн-формате)
+* [x] Отправьте ссылку ученику на [регистрацию](./ssylka-registraciya-uchenika) в Finch (с незарегистрированными пользователями не получится проводить звонки в онлайн-формате)
 
 * [x] Добавьте [материалы](./../materialy/_index)
 
 * [x] Настройте работу на интерактивной [доске](./../zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/ispolzovanie-interaktivnoi-doski)
 
-* [x] Проводите [занятия](./../podrobnee-obo-vsekh-obnovleniyakh/redizain-rasshirennoi-stranicy-zanyatiya), используя видеозвонки
+* [x] Проводите [занятия](./../zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/_index), используя видеозвонки
 
 * [x] Общайтесь в [чатах](./../uvedomleniya-i-chaty/chaty) внутри системы
 
