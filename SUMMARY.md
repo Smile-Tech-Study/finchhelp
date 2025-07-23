@@ -26,9 +26,9 @@ title: Содержание
 
 -  [Чаты](./uvedomleniya-i-chaty/chaty)
 
--  [Уведомления](./uvedomleniya-i-chaty/uvedomleniya)
+-  [Уведомления](./uvedomleniya-i-chaty/uvedomleniya-2)
 
--  [Настройка уведомлений](./uvedomleniya-i-chaty/nastroika-uvedomlenii)
+-  [Настройка уведомлений](./uvedomleniya-i-chaty/nastroyka-uvedomleniy)
 
 ## Материалы
 
@@ -44,7 +44,7 @@ title: Содержание
 
    -  [Использование материалов](./zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/ispolzovanie-materialov)
 
-   -  [Использование интерактивной доски](./zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/ispolzovanie-interaktivnoi-doski)
+   -  [Использование интерактивной доски](./zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/ispolzovanie-materialov)
 
 -  [Отмена и перенос занятий](./zanyatiya-i-videozvonki/otmena-i-perenos-zanyatii)
 
