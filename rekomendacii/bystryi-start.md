@@ -1,5 +1,5 @@
 ---
-title: Быстрый старт
+title: Ученики
 order: 1
 ---
 
@@ -11,17 +11,17 @@ order: 1
 
 * [x] Добавьте [учеников](./../ucheniki-i-gruppy/ucheniki) и по желанию объедините их в [группы](./../ucheniki-i-gruppy/gruppy), если вы проводите групповые занятия
 
-* [x] Отправьте ссылку ученику на [регистрацию](./../ucheniki-i-gruppy/ucheniki#registraciya-uchenikov) в Finch (с незарегистрированными пользователями не получится проводить звонки в онлайн-формате)
+* [x] Отправьте ссылку ученику на [регистрацию]() в Finch (с незарегистрированными пользователями не получится проводить звонки в онлайн-формате)
 
 * [x] Добавьте [материалы](./../materialy/_index)
 
 * [x] Настройте работу на интерактивной [доске](./../zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/ispolzovanie-interaktivnoi-doski)
 
-* [x] Проводите [занятия](broken-reference), используя видеозвонки
+* [x] Проводите [занятия](./../podrobnee-obo-vsekh-obnovleniyakh/redizain-rasshirennoi-stranicy-zanyatiya), используя видеозвонки
 
 * [x] Общайтесь в [чатах](./../uvedomleniya-i-chaty/chaty) внутри системы
 
-* [x] Выставляйте [оплату](./../ucheniki-i-gruppy/stoimost-zanyatii-vystavlenie-oplaty) -> [уведомления](./../uvedomleniya-i-chaty/uvedomleniya) о необходимости оплатить Finch отправит клиентам самостоятельно
+* [x] Выставляйте [оплату](./../ucheniki-i-gruppy/stoimost-zanyatii-vystavlenie-oplaty) -> [уведомления](./../uvedomleniya-i-chaty/uvedomleniya-2) о необходимости оплатить Finch отправит клиентам самостоятельно
 
 * [x] Смотрите [статистику](./../statistika/finansy)
 
