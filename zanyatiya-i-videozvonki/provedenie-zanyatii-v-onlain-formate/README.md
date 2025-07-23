@@ -1,18 +1,23 @@
-# Проведение занятий в онлайн-формате
+---
+title: Проведение занятий в онлайн-формате
+---
 
-После [регистрации](../../rekomendacii/ssylka-registraciya-uchenika.md) с учеником в Finch можно провести видеозвонок.
+После [регистрации](./../../rekomendacii/ssylka-registraciya-uchenika) с учеником в Finch можно провести видеозвонок.
 
 Для этого необходимо:
 
-1. Добавить [занятие](../dobavlenie-zanyatii.md)
+1. Добавить [занятие](./../dobavlenie-zanyatii)
+
 2. Начать звонок любым из способов:
-   1.  Из расписания
 
-       ![](<../../.gitbook/assets/image (49).png>)
-   2.  Со страницы дашборда
+   1. Из расписания
 
-       ![](<../../.gitbook/assets/image (51).png>)
+      ![](<../../.gitbook/assets/image (49).png>)
 
-***
+   2. Со страницы дашборда
 
-Во время проведения видеоурока можно использовать [интерактивную доску](ispolzovanie-interaktivnoi-doski.md) и дополнительные [материалы](broken-reference).
+      ![](<../../.gitbook/assets/image (51).png>)
+
+---
+
+Во время проведения видеоурока можно использовать [интерактивную доску](./ispolzovanie-interaktivnoi-doski) и дополнительные [материалы](./../../materialy/khranilishe-materialov).
