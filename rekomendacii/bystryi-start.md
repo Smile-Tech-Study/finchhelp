@@ -15,13 +15,13 @@ order: 1
 
 * [x] Добавьте [материалы](./../materialy/_index)
 
-* [x] Настройте работу на интерактивной [доске](./../zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/ispolzovanie-interaktivnoi-doski)
+* [x] Настройте работу на интерактивной [доске](./../zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/ispolzovanie-materialov)
 
 * [x] Проводите [занятия](./../zanyatiya-i-videozvonki/provedenie-zanyatii-v-onlain-formate/_index), используя видеозвонки
 
 * [x] Общайтесь в [чатах](./../uvedomleniya-i-chaty/chaty) внутри системы
 
-* [x] Выставляйте [оплату](./../ucheniki-i-gruppy/stoimost-zanyatii-vystavlenie-oplaty) -> [уведомления](./../uvedomleniya-i-chaty/uvedomleniya-2) о необходимости оплатить Finch отправит клиентам самостоятельно
+* [ ] Выставляйте [оплату](./../ucheniki-i-gruppy/stoimost-zanyatii-vystavlenie-oplaty) -> [уведомления](./../uvedomleniya-i-chaty/uvedomleniya-2) о необходимости оплатить Finch отправит клиентам самостоятельно
 
 * [x] Смотрите [статистику](./../statistika/finansy)
 
