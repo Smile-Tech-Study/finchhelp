@@ -54,7 +54,7 @@ title: Содержание
 
 ## Новости Finch
 
--  [Подробнее обо всех обновлениях](./podrobnee-obo-vsekh-obnovleniyakh/README)
+-  [Подробнее обо всех обновлениях](./podrobnee-obo-vsekh-obnovleniyakh/_index)
 
    -  [Звонок в фоновом режиме](./podrobnee-obo-vsekh-obnovleniyakh/zvonok-v-fonovom-rezhime)
 

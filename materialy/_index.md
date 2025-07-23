@@ -1,8 +1,6 @@
 ---
 order: 3.5
-title: Материала
+title: Материалы
 ---
 
 [view:hierarchy=none::::List]
-
-
