@@ -1,5 +1,6 @@
 ---
 title: Содержание
+order: 1
 ---
 
 -  [Finch](./README)
@@ -54,28 +55,26 @@ title: Содержание
 
 ## Новости Finch
 
--  [Подробнее обо всех обновлениях](./podrobnee-obo-vsekh-obnovleniyakh/_index)
+-  [Звонок в фоновом режиме](./podrobnee-obo-vsekh-obnovleniyakh/zvonok-v-fonovom-rezhime)
 
-   -  [Звонок в фоновом режиме](./podrobnee-obo-vsekh-obnovleniyakh/zvonok-v-fonovom-rezhime)
+-  [Виртуальный фон для звонка](./podrobnee-obo-vsekh-obnovleniyakh/virtualnyi-fon-dlya-zvonka)
 
-   -  [Виртуальный фон для звонка](./podrobnee-obo-vsekh-obnovleniyakh/virtualnyi-fon-dlya-zvonka)
+-  [Демонстрация со звуком](./podrobnee-obo-vsekh-obnovleniyakh/demonstraciya-so-zvukom)
 
-   -  [Демонстрация со звуком](./podrobnee-obo-vsekh-obnovleniyakh/demonstraciya-so-zvukom)
+-  [Добавление нескольких картинок](./podrobnee-obo-vsekh-obnovleniyakh/dobavlenie-neskolkikh-kartinok)
 
-   -  [Добавление нескольких картинок](./podrobnee-obo-vsekh-obnovleniyakh/dobavlenie-neskolkikh-kartinok)
+-  [Страница авторизации/регистрации](./podrobnee-obo-vsekh-obnovleniyakh/stranica-avtorizacii-registracii)
 
-   -  [Страница авторизации/регистрации](./podrobnee-obo-vsekh-obnovleniyakh/stranica-avtorizacii-registracii)
+-  [Вставка ссылки](./podrobnee-obo-vsekh-obnovleniyakh/vstavka-ssylki)
 
-   -  [Вставка ссылки](./podrobnee-obo-vsekh-obnovleniyakh/vstavka-ssylki)
+-  [Отмена подписки](./podrobnee-obo-vsekh-obnovleniyakh/otmena-podpiski)
 
-   -  [Отмена подписки](./podrobnee-obo-vsekh-obnovleniyakh/otmena-podpiski)
+-  [Редизайн расширенной страницы занятия](./podrobnee-obo-vsekh-obnovleniyakh/redizain-rasshirennoi-stranicy-zanyatiya)
 
-   -  [Редизайн расширенной страницы занятия](./podrobnee-obo-vsekh-obnovleniyakh/redizain-rasshirennoi-stranicy-zanyatiya)
+-  [Выбор длины и времени занятий в мобильной версии](./podrobnee-obo-vsekh-obnovleniyakh/vybor-dliny-i-vremeni-zanyatii-v-mobilnoi-versii)
 
-   -  [Выбор длины и времени занятий в мобильной версии](./podrobnee-obo-vsekh-obnovleniyakh/vybor-dliny-i-vremeni-zanyatii-v-mobilnoi-versii)
+-  [Сортировка материалов в мобильной версии](./podrobnee-obo-vsekh-obnovleniyakh/sortirovka-materialov-v-mobilnoi-versii)
 
-   -  [Сортировка материалов в мобильной версии](./podrobnee-obo-vsekh-obnovleniyakh/sortirovka-materialov-v-mobilnoi-versii)
+-  [Переход в чат с учеником](./podrobnee-obo-vsekh-obnovleniyakh/perekhod-v-chat-s-uchenikom)
 
-   -  [Переход в чат с учеником](./podrobnee-obo-vsekh-obnovleniyakh/perekhod-v-chat-s-uchenikom)
-
-   -  [Код в сообщениях чата](./podrobnee-obo-vsekh-obnovleniyakh/kod-v-soobsheniyakh-chata)
+-  [Код в сообщениях чата](./podrobnee-obo-vsekh-obnovleniyakh/kod-v-soobsheniyakh-chata)

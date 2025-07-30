@@ -1,5 +1,6 @@
 ---
 title: Профиль
+order: 1
 ---
 
 [tabs]

@@ -1,5 +1,6 @@
 ---
 title: Проведение занятий в онлайн-формате
+order: 3
 ---
 
 После [регистрации](./../../rekomendacii/ssylka-registraciya-uchenika) с учеником в Finch можно провести видеозвонок.

@@ -1,6 +1,6 @@
 ---
 title: Ученики
-order: 1
+order: 2
 ---
 
 ![](<../.gitbook/assets/image (22).png>)

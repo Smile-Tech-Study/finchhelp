@@ -1,6 +1,6 @@
 ---
 title: Статистика
-order: 5.5
+order: 8
 ---
 
 [view:hierarchy=none::::List]
