@@ -3,7 +3,7 @@ title: Содержание
 order: 1
 ---
 
--  [Finch](./README)
+-  [Finch](./README) 
 
 ## Рекомендации
 
