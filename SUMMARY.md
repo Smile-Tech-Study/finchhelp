@@ -1,6 +1,6 @@
 ---
 title: Содержание
-order: 1
+order: 2.5
 ---
 
 -  [Finch](./README)
