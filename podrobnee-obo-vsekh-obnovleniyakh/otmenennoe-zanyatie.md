@@ -11,7 +11,7 @@ title: Отмененное занятие
 
 3. По наведению на инфо показывается причина, которая была указана при отмене занятия.
 
-![](./otmenennoe-zanyatie.png){width=1389px height=988px}
+![](./otmenennoe-zanyatie.png){width=1355px height=722px}
 
 10\.03.2025
 
