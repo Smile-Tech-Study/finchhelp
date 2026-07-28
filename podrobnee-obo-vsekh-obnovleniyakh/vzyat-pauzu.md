@@ -11,4 +11,4 @@ title: Взять паузу
 
 ![](./vzyat-pauzu.png){width=937px height=817px}
 
-05\.06.2026
+13\.07.2026
