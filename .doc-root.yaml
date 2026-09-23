@@ -2,21 +2,6 @@ title: Finch
 optionalCategoryIndex: true
 supportedLanguages: []
 properties: []
-link:
-  name: Finch_help
-  pathname: github.com/Smile-Tech-Study/Finch_help/main/-
-  lastVisited: github.com/Smile-Tech-Study/Finch_help/main/-/README
-  logo: Finch.svg
-  title: Finch
-  query: {}
-  group: null
-  code: ""
-  style: null
-  description: null
-  order: 999999
-  isCloning: false
-  cloneCancelDisabled: false
-  redirectOnClone: null
 relatedLinks: []
 name: Finch_help
 repositoryName: Finch_help
@@ -25,5 +10,8 @@ userInfo:
   mail: kitlove51@list.ru
   name: LyubovAsseyeva
   id: kitlove51@list.ru
-logo: logo (1).png
-logo_dark: logo (2).png
+logo: logo.svg
+lfs:
+  auto: false
+  exclude: []
+logo_dark: logo_dark.svg
