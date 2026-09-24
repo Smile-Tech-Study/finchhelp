@@ -13,4 +13,3 @@ userInfo:
 lfs:
   auto: false
   exclude: []
-logo: logo.png
