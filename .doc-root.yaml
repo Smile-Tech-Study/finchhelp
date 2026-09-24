@@ -14,4 +14,3 @@ logo: logo.png
 lfs:
   auto: false
   exclude: []
-logo_dark: logo_dark.svg
